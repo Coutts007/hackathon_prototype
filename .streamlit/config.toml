@@ -1,0 +1,22 @@
+[server]
+# Max number of megabytes for uploaded files
+maxUploadSize = 50
+
+# Whether to enable the header 'X-Powered-By'
+enableCORS = false
+enableXsrfProtection = false
+
+# Optimization: Limit the memory usage for scripts
+# This helps if many users are connected simultaneously
+scriptRunOnSave = false
+
+[browser]
+# Disable showing the 'Gathering usage statistics' message
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#58a6ff"
+backgroundColor = "#0d1117"
+secondaryBackgroundColor = "#161b22"
+textColor = "#e6edf3"
+font = "sans serif"

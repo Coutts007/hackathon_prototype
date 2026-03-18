@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+.odd{
+    background-color: rgb(205, 50, 146);
+    padding: 20px;
+    font-size: 20px;
+}
+.even{
+    padding: 20px;
+    font-size: 30px ;
+
+}
+#two{
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+
+}
